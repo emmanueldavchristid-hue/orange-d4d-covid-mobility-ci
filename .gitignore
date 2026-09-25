@@ -1,0 +1,22 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Données
+*.xlsx
+*.csv
+*.txt
+*.zip
+*.parquet
+
+# Environnements
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
